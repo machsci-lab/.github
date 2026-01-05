@@ -5,8 +5,18 @@
 <td width="50%" valign="top">
 
 ### ℹ️ Introduction
-- **Create Date**: January 1st, 2026
-- **Slogan**: Building **Intelligent** and **Efficient** Autonomous Machine by Using Sciencific Methods
+- **Date**: January 1st, 2026
+- **Desc**:
+- **Topics**: FPGA Prototype, ASIC Chip, Domain Specific Sys / Arch, Edge AI, Embodied AI, MLSys, Robotics, etc
+- **Slogan**: Building Intelligent Autonomous Machines by Using Scientific Methods
+- **Goal**: 
+
+</td>
+<td width="50%" valign="top">
+
+### 🧰 Project List
+
+### 🔥 Community & Resources
 
 </td>
 </tr>
