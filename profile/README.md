@@ -4,7 +4,7 @@
 <tr align="justify">
 <td width="50%" valign="top">
 
-### ℹ️ Introduction
+### Introduction
 - **Date**: January 1st, 2026
 - **Desc**:
 - **Topics**: FPGA Prototype, ASIC Chip, Domain Specific Sys / Arch, Edge AI, Embodied AI, MLSys, Robotics, etc
@@ -14,9 +14,9 @@
 </td>
 <td width="50%" valign="top">
 
-### 🧰 Project List
+### Project List
 
-### 🔥 Community & Resources
+### Community & Resources
 
 </td>
 </tr>
