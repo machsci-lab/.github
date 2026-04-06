@@ -5,18 +5,18 @@
 <td width="50%" valign="top">
 
 ### Introduction
-- **Date**: January 1st, 2026
-- **Desc**:
-- **Topics**: FPGA Prototype, ASIC Chip, Domain Specific Sys / Arch, Edge AI, Embodied AI, MLSys, Robotics, etc
-- **Slogan**: Building Intelligent Autonomous Machines by Using Scientific Methods
-- **Goal**: 
+- **Date:** January 1st, 2026
+- **Founder:** [Machine Kid myyerrol](https://github.com/myyerrol)
+- **Background:** In 2015, when Machine Kid myyerrol was still an undergraduate student, he envisioned **customizing a robot chip using the open-source instruction set RISC-V.** However, due to limitations in his personal technical skills and other factors, this idea was never realized. With the concentrated emergence of AI agent centered around LLM and Embodied AI around 2023, **the era of individuals creating complex intelligent machines had arrived.** Thus, the Machine Science was born.
+- **Topics:** FPGA Prototype, ASIC Chip, Domain Specific Architecture, Physical AI, Embodied AI, Robot Chip, Robotic Computing, Robotics, etc
+- **Slogan:** Building Intelligent Autonomous **Machines** by Using **Scientific** Methods
+- **Goal:**
 
 </td>
 <td width="50%" valign="top">
 
 ### Project List
-
-### Community & Resources
+- **:**
 
 </td>
 </tr>
